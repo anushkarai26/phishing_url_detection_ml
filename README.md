@@ -2,10 +2,10 @@
 
 This project focuses on detecting phishing URLs using supervised machine learning models. It aims to help identify malicious web addresses by extracting key lexical and domain-based features and training classifiers to distinguish between legitimate and phishing URLs.
 
-## 🚀 Demo
+##  Demo
 You can run the complete project in [Google Colab](https://colab.research.google.com/drive/1zXekO5bfCT2mzhAEU1VM3UnvmY_6yVtJ#scrollTo=QrpPZTukvHZ3).
 
-## 🧠 Project Workflow
+##  Project Workflow
 
 ### 1. **Data Collection**
 - Dataset used: `phishing_site_urls.csv`
@@ -49,7 +49,7 @@ Implemented and compared the following classifiers:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component        | Technology                        |
 |------------------|-----------------------------------|
